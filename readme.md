@@ -1,3 +1,3 @@
-# Git and Github Course
+# Answer quests for "Begin" in Abramyan book
 
-Crash 
+I decided to solve problems in Python in order to improve my knowledge of the programming language!
